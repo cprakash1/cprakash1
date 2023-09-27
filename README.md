@@ -11,13 +11,13 @@
 ### Connect with me:
 
 //codeforces
-[<img align="left" alt="codeforces" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3521368-2945064.png" />][codeforces]
+[<img align="left" alt="codeforces" width="22px" src="https://codeforces.org/s/88293/images/codeforces-sponsored-by-ton.png" />][codeforces]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/chandra-prakash-5639aa238/
-[codeforces]: https://codeforces.com/profile/cprakash1
+[codeforces]: https://codeforces.com/profile/cprakash
 
 ### Languages and Tools:
 
